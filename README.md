@@ -1,5 +1,7 @@
 # react-fusejs-fuzzy-search
 
+[![npm version](https://badge.fury.io/js/react-fusejs-fuzzy-search.svg)](https://badge.fury.io/js/react-fusejs-fuzzy-search)
+
 Fuzzy search by keeping the UI layer as abstract as possible.
 
 The motivation behind the project was to provide an abstract solution that
