@@ -2,7 +2,16 @@
 
 Fuzzy search by keeping the UI layer as abstract as possible.
 
-## Example without hooks
+The motivation behind the project was to provide an abstract solution that
+wraps the Fuse instance and provides a reactive way to use it through an hook.
+
+The library was kept as light as possible by trying to make the fuse usage as
+easy and as transparent as possible.
+
+If you don't want to use the component provided for several personal reasons, the
+provided hook is likely what you might need / want to use.
+
+## Example WITHOUT hooks (using the component)
 
 You can use the Wrapper component that, under the hood, uses the provided hook.
 
