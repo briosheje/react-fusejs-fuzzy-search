@@ -104,7 +104,13 @@ dist
 .tern-port
 
 # Example folder
-example/
+examples/
 
 # src folder
 src/
+
+# .node-version file (only needed for dev purposes)
+.node-version
+
+# Makefile, only needed for utility purposes.
+Makefile
