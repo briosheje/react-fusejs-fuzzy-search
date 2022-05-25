@@ -4,6 +4,6 @@ Fuzzy search by keeping the UI layer as abstract as possible.
 
 # For testing locally:
 
-Run the root folder (same as this readme): `npm link`
-
-Navigate to the example you want to test and run: `npm link react-fusejs-fuzzy-search`
+Ensure you have `make` utility installed and run either of the example available
+commands (e.g. `make link-example-with-component`), then run the example
+(e.g. `cd examples/with/component && npm run start`)
